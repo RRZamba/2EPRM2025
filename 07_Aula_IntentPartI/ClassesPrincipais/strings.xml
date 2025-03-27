@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="titulo">Trabalhando com o Intent!!! S2</string>
+    <string name="btnEntrar">Clique-me!!!\n</string>
+    <string name="titulo2">Bem-Vindo Otário!!!</string>
+    <string name="txtNome">Digite seu Nome</string>
+    <string name="txtSenha">Digite a Senha</string>
+    <string name="txtConfSenha">Confirme a Senha</string>
+    <string name="btnCadastrar">Cadastar</string>
+</resources>
